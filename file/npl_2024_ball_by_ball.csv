@@ -36,36 +36,36 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462596,2024-11-30,BRK,JKB,1,5,3,mj guptill,r,aqib ilyas,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,5,4,mj guptill,r,aqib ilyas,ln rajbanshi,slow left arm orthodox,2,0,2,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,5,5,mj guptill,r,aqib ilyas,ln rajbanshi,slow left arm orthodox,1,0,1,False,,,2024,11,30,Spin
-1462596,2024-11-30,BRK,JKB,1,6,0,mj guptill,r,aqib ilyas,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,6,1,mj guptill,r,aqib ilyas,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,6,2,aqib ilyas,r,mj guptill,mohammad mohsin,right-arm legbreak,0,1,1,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,6,3,mj guptill,r,aqib ilyas,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,6,4,aqib ilyas,r,mj guptill,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,6,5,aqib ilyas,r,mj guptill,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,6,0,mj guptill,r,aqib ilyas,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,6,1,mj guptill,r,aqib ilyas,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,6,2,aqib ilyas,r,mj guptill,mohammad mohsin,right arm legbreak,0,1,1,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,6,3,mj guptill,r,aqib ilyas,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,6,4,aqib ilyas,r,mj guptill,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,6,5,aqib ilyas,r,mj guptill,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,11,30,
 1462596,2024-11-30,BRK,JKB,1,7,0,aqib ilyas,r,mj guptill,tb thapa,left arm wrist spin,1,0,1,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,7,1,mj guptill,r,aqib ilyas,tb thapa,left arm wrist spin,0,0,0,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,7,2,mj guptill,r,aqib ilyas,tb thapa,left arm wrist spin,1,0,1,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,7,3,aqib ilyas,r,mj guptill,tb thapa,left arm wrist spin,1,0,1,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,7,4,mj guptill,r,aqib ilyas,tb thapa,left arm wrist spin,0,0,0,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,7,5,mj guptill,r,aqib ilyas,tb thapa,left arm wrist spin,4,0,4,False,,,2024,11,30,Spin
-1462596,2024-11-30,BRK,JKB,1,8,0,aqib ilyas,r,mj guptill,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,8,1,aqib ilyas,r,mj guptill,mohammad mohsin,right-arm legbreak,0,0,0,True,lbw,aqib ilyas,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,8,2,nr kirton,l,mj guptill,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,8,3,mj guptill,r,nr kirton,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,8,4,nr kirton,l,mj guptill,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,8,5,nr kirton,l,mj guptill,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,8,0,aqib ilyas,r,mj guptill,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,8,1,aqib ilyas,r,mj guptill,mohammad mohsin,right arm legbreak,0,0,0,True,lbw,aqib ilyas,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,8,2,nr kirton,l,mj guptill,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,8,3,mj guptill,r,nr kirton,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,8,4,nr kirton,l,mj guptill,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,8,5,nr kirton,l,mj guptill,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,11,30,
 1462596,2024-11-30,BRK,JKB,1,9,0,mj guptill,r,nr kirton,h thaker,right arm offbreak,0,0,0,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,9,1,mj guptill,r,nr kirton,h thaker,right arm offbreak,0,0,0,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,9,2,mj guptill,r,nr kirton,h thaker,right arm offbreak,4,0,4,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,9,3,mj guptill,r,nr kirton,h thaker,right arm offbreak,4,0,4,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,9,4,mj guptill,r,nr kirton,h thaker,right arm offbreak,1,0,1,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,9,5,nr kirton,l,mj guptill,h thaker,right arm offbreak,1,0,1,False,,,2024,11,30,Spin
-1462596,2024-11-30,BRK,JKB,1,10,0,nr kirton,l,mj guptill,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,10,1,nr kirton,l,mj guptill,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,10,2,nr kirton,l,mj guptill,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,10,3,nr kirton,l,mj guptill,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,10,4,nr kirton,l,mj guptill,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,10,5,mj guptill,r,nr kirton,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,10,0,nr kirton,l,mj guptill,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,10,1,nr kirton,l,mj guptill,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,10,2,nr kirton,l,mj guptill,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,10,3,nr kirton,l,mj guptill,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,10,4,nr kirton,l,mj guptill,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,10,5,mj guptill,r,nr kirton,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,11,30,
 1462596,2024-11-30,BRK,JKB,1,11,0,nr kirton,l,mj guptill,h thaker,right arm offbreak,1,0,1,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,11,1,mj guptill,r,nr kirton,h thaker,right arm offbreak,1,0,1,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,11,2,nr kirton,l,mj guptill,h thaker,right arm offbreak,0,0,0,False,,,2024,11,30,Spin
@@ -85,12 +85,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462596,2024-11-30,BRK,JKB,1,13,3,mj guptill,r,basir ahamad,h thaker,right arm offbreak,2,0,2,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,13,4,mj guptill,r,basir ahamad,h thaker,right arm offbreak,0,0,0,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,13,5,mj guptill,r,basir ahamad,h thaker,right arm offbreak,0,0,0,True,caught,mj guptill,2024,11,30,Spin
-1462596,2024-11-30,BRK,JKB,1,14,0,basir ahamad,l,rp magar,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,14,1,basir ahamad,l,rp magar,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,14,2,basir ahamad,l,rp magar,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,14,3,rp magar,r,basir ahamad,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,14,4,rp magar,r,basir ahamad,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,11,30,
-1462596,2024-11-30,BRK,JKB,1,14,5,rp magar,r,basir ahamad,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,14,0,basir ahamad,l,rp magar,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,14,1,basir ahamad,l,rp magar,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,14,2,basir ahamad,l,rp magar,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,14,3,rp magar,r,basir ahamad,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,14,4,rp magar,r,basir ahamad,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,11,30,
+1462596,2024-11-30,BRK,JKB,1,14,5,rp magar,r,basir ahamad,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,11,30,
 1462596,2024-11-30,BRK,JKB,1,15,0,rp magar,r,basir ahamad,h thaker,right arm offbreak,0,0,0,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,15,1,rp magar,r,basir ahamad,h thaker,right arm offbreak,0,0,0,False,,,2024,11,30,Spin
 1462596,2024-11-30,BRK,JKB,1,15,2,rp magar,r,basir ahamad,h thaker,right arm offbreak,0,0,0,True,run out,rp magar,2024,11,30,Spin
@@ -491,36 +491,36 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462641,2024-12-02,KNY,JKB,1,5,3,cak walton,r,babar hayat,jds neesham,right arm medium fast,4,0,4,False,,,2024,12,2,Pace
 1462641,2024-12-02,KNY,JKB,1,5,4,cak walton,r,babar hayat,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,2,Pace
 1462641,2024-12-02,KNY,JKB,1,5,5,babar hayat,l,cak walton,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,2,Pace
-1462641,2024-12-02,KNY,JKB,1,6,0,babar hayat,l,cak walton,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,6,1,babar hayat,l,cak walton,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,6,2,babar hayat,l,cak walton,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,6,3,babar hayat,l,cak walton,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,6,4,babar hayat,l,cak walton,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,6,5,cak walton,r,babar hayat,mohammad mohsin,right-arm legbreak,0,0,0,True,lbw,cak walton,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,6,0,babar hayat,l,cak walton,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,6,1,babar hayat,l,cak walton,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,6,2,babar hayat,l,cak walton,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,6,3,babar hayat,l,cak walton,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,6,4,babar hayat,l,cak walton,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,6,5,cak walton,r,babar hayat,mohammad mohsin,right arm legbreak,0,0,0,True,lbw,cak walton,2024,12,2,
 1462641,2024-12-02,KNY,JKB,1,7,0,babar hayat,l,zeeshan maqsood,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,2,Pace
 1462641,2024-12-02,KNY,JKB,1,7,1,babar hayat,l,zeeshan maqsood,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,2,Pace
 1462641,2024-12-02,KNY,JKB,1,7,2,zeeshan maqsood,r,babar hayat,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,2,Pace
 1462641,2024-12-02,KNY,JKB,1,7,3,zeeshan maqsood,r,babar hayat,jds neesham,right arm medium fast,0,0,0,True,lbw,zeeshan maqsood,2024,12,2,Pace
 1462641,2024-12-02,KNY,JKB,1,7,4,gulsan jha,l,babar hayat,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,2,Pace
 1462641,2024-12-02,KNY,JKB,1,7,5,gulsan jha,l,babar hayat,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,2,Pace
-1462641,2024-12-02,KNY,JKB,1,8,0,gulsan jha,l,babar hayat,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,8,1,gulsan jha,l,babar hayat,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,8,2,gulsan jha,l,babar hayat,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,8,3,babar hayat,l,gulsan jha,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,8,4,babar hayat,l,gulsan jha,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,8,5,babar hayat,l,gulsan jha,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,8,0,gulsan jha,l,babar hayat,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,8,1,gulsan jha,l,babar hayat,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,8,2,gulsan jha,l,babar hayat,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,8,3,babar hayat,l,gulsan jha,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,8,4,babar hayat,l,gulsan jha,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,8,5,babar hayat,l,gulsan jha,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
 1462641,2024-12-02,KNY,JKB,1,9,0,gulsan jha,l,babar hayat,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,2,Spin
 1462641,2024-12-02,KNY,JKB,1,9,1,gulsan jha,l,babar hayat,ln rajbanshi,slow left arm orthodox,6,0,6,False,,,2024,12,2,Spin
 1462641,2024-12-02,KNY,JKB,1,9,2,gulsan jha,l,babar hayat,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,2,Spin
 1462641,2024-12-02,KNY,JKB,1,9,3,gulsan jha,l,babar hayat,ln rajbanshi,slow left arm orthodox,1,0,1,False,,,2024,12,2,Spin
 1462641,2024-12-02,KNY,JKB,1,9,4,babar hayat,l,gulsan jha,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,2,Spin
 1462641,2024-12-02,KNY,JKB,1,9,5,babar hayat,l,gulsan jha,ln rajbanshi,slow left arm orthodox,1,0,1,False,,,2024,12,2,Spin
-1462641,2024-12-02,KNY,JKB,1,10,0,babar hayat,l,gulsan jha,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,10,1,gulsan jha,l,babar hayat,mohammad mohsin,right-arm legbreak,6,0,6,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,10,2,gulsan jha,l,babar hayat,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,10,3,gulsan jha,l,babar hayat,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,10,4,gulsan jha,l,babar hayat,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,10,5,gulsan jha,l,babar hayat,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,10,0,babar hayat,l,gulsan jha,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,10,1,gulsan jha,l,babar hayat,mohammad mohsin,right arm legbreak,6,0,6,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,10,2,gulsan jha,l,babar hayat,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,10,3,gulsan jha,l,babar hayat,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,10,4,gulsan jha,l,babar hayat,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,10,5,gulsan jha,l,babar hayat,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,2,
 1462641,2024-12-02,KNY,JKB,1,11,0,babar hayat,l,gulsan jha,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,2,Pace
 1462641,2024-12-02,KNY,JKB,1,11,1,gulsan jha,l,babar hayat,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,2,Pace
 1462641,2024-12-02,KNY,JKB,1,11,2,gulsan jha,l,babar hayat,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,2,Pace
@@ -533,12 +533,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462641,2024-12-02,KNY,JKB,1,12,3,gulsan jha,l,babar hayat,h thaker,right arm offbreak,1,0,1,False,,,2024,12,2,Spin
 1462641,2024-12-02,KNY,JKB,1,12,4,babar hayat,l,gulsan jha,h thaker,right arm offbreak,0,0,0,False,,,2024,12,2,Spin
 1462641,2024-12-02,KNY,JKB,1,12,5,babar hayat,l,gulsan jha,h thaker,right arm offbreak,1,0,1,False,,,2024,12,2,Spin
-1462641,2024-12-02,KNY,JKB,1,13,0,babar hayat,l,gulsan jha,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,13,1,babar hayat,l,gulsan jha,mohammad mohsin,right-arm legbreak,0,0,0,True,caught,babar hayat,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,13,2,a gharti,r,gulsan jha,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,13,3,a gharti,r,gulsan jha,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,13,4,a gharti,r,gulsan jha,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,2,
-1462641,2024-12-02,KNY,JKB,1,13,5,gulsan jha,l,a gharti,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,13,0,babar hayat,l,gulsan jha,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,13,1,babar hayat,l,gulsan jha,mohammad mohsin,right arm legbreak,0,0,0,True,caught,babar hayat,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,13,2,a gharti,r,gulsan jha,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,13,3,a gharti,r,gulsan jha,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,13,4,a gharti,r,gulsan jha,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,2,
+1462641,2024-12-02,KNY,JKB,1,13,5,gulsan jha,l,a gharti,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,2,
 1462641,2024-12-02,KNY,JKB,1,14,0,a gharti,r,gulsan jha,h thaker,right arm offbreak,0,0,0,False,,,2024,12,2,Spin
 1462641,2024-12-02,KNY,JKB,1,14,1,a gharti,r,gulsan jha,h thaker,right arm offbreak,0,0,0,False,,,2024,12,2,Spin
 1462641,2024-12-02,KNY,JKB,1,14,2,a gharti,r,gulsan jha,h thaker,right arm offbreak,1,0,1,False,,,2024,12,2,Spin
@@ -1658,12 +1658,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462646,2024-12-05,PKA,JKB,1,6,4,k bhurtel,r,d nath,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,6,5,k bhurtel,r,d nath,ln rajbanshi,slow left arm orthodox,4,0,4,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,6,6,k bhurtel,r,d nath,ln rajbanshi,slow left arm orthodox,0,0,0,True,stumped,k bhurtel,2024,12,5,Spin
-1462646,2024-12-05,PKA,JKB,1,7,0,d nath,r,mjj critchley,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,7,1,mjj critchley,r,d nath,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,7,2,d nath,r,mjj critchley,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,7,3,mjj critchley,r,d nath,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,7,4,d nath,r,mjj critchley,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,7,5,mjj critchley,r,d nath,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,7,0,d nath,r,mjj critchley,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,7,1,mjj critchley,r,d nath,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,7,2,d nath,r,mjj critchley,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,7,3,mjj critchley,r,d nath,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,7,4,d nath,r,mjj critchley,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,7,5,mjj critchley,r,d nath,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,5,
 1462646,2024-12-05,PKA,JKB,1,8,0,mjj critchley,r,d nath,ln rajbanshi,slow left arm orthodox,1,0,1,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,8,1,d nath,r,mjj critchley,ln rajbanshi,slow left arm orthodox,4,0,4,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,8,2,d nath,r,mjj critchley,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,5,Spin
@@ -1676,12 +1676,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462646,2024-12-05,PKA,JKB,1,9,3,mjj critchley,r,d nath,tb thapa,left arm wrist spin,6,0,6,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,9,4,mjj critchley,r,d nath,tb thapa,left arm wrist spin,1,0,1,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,9,5,d nath,r,mjj critchley,tb thapa,left arm wrist spin,1,0,1,False,,,2024,12,5,Spin
-1462646,2024-12-05,PKA,JKB,1,10,0,d nath,r,mjj critchley,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,10,1,d nath,r,mjj critchley,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,10,2,d nath,r,mjj critchley,mohammad mohsin,right-arm legbreak,0,0,0,True,lbw,d nath,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,10,3,ra reifer,r,mjj critchley,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,10,4,ra reifer,r,mjj critchley,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,10,5,ra reifer,r,mjj critchley,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,10,0,d nath,r,mjj critchley,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,10,1,d nath,r,mjj critchley,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,10,2,d nath,r,mjj critchley,mohammad mohsin,right arm legbreak,0,0,0,True,lbw,d nath,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,10,3,ra reifer,r,mjj critchley,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,10,4,ra reifer,r,mjj critchley,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,10,5,ra reifer,r,mjj critchley,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
 1462646,2024-12-05,PKA,JKB,1,11,0,mjj critchley,r,ra reifer,h thaker,right arm offbreak,2,0,2,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,11,1,mjj critchley,r,ra reifer,h thaker,right arm offbreak,0,0,0,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,11,2,mjj critchley,r,ra reifer,h thaker,right arm offbreak,0,1,1,False,,,2024,12,5,Spin
@@ -1689,24 +1689,24 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462646,2024-12-05,PKA,JKB,1,11,4,ra reifer,r,mjj critchley,h thaker,right arm offbreak,1,0,1,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,11,5,mjj critchley,r,ra reifer,h thaker,right arm offbreak,0,0,0,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,11,6,mjj critchley,r,ra reifer,h thaker,right arm offbreak,4,0,4,False,,,2024,12,5,Spin
-1462646,2024-12-05,PKA,JKB,1,12,0,ra reifer,r,mjj critchley,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,12,1,mjj critchley,r,ra reifer,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,12,2,mjj critchley,r,ra reifer,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,12,3,mjj critchley,r,ra reifer,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,12,4,ra reifer,r,mjj critchley,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,12,5,ra reifer,r,mjj critchley,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,12,0,ra reifer,r,mjj critchley,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,12,1,mjj critchley,r,ra reifer,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,12,2,mjj critchley,r,ra reifer,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,12,3,mjj critchley,r,ra reifer,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,12,4,ra reifer,r,mjj critchley,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,12,5,ra reifer,r,mjj critchley,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,5,
 1462646,2024-12-05,PKA,JKB,1,13,0,mjj critchley,r,ra reifer,h thaker,right arm offbreak,1,0,1,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,13,1,ra reifer,r,mjj critchley,h thaker,right arm offbreak,1,0,1,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,13,2,mjj critchley,r,ra reifer,h thaker,right arm offbreak,0,0,0,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,13,3,mjj critchley,r,ra reifer,h thaker,right arm offbreak,1,0,1,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,13,4,ra reifer,r,mjj critchley,h thaker,right arm offbreak,1,0,1,False,,,2024,12,5,Spin
 1462646,2024-12-05,PKA,JKB,1,13,5,mjj critchley,r,ra reifer,h thaker,right arm offbreak,0,0,0,False,,,2024,12,5,Spin
-1462646,2024-12-05,PKA,JKB,1,14,0,ra reifer,r,mjj critchley,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,14,1,ra reifer,r,mjj critchley,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,14,2,ra reifer,r,mjj critchley,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,14,3,mjj critchley,r,ra reifer,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,14,4,mjj critchley,r,ra reifer,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
-1462646,2024-12-05,PKA,JKB,1,14,5,mjj critchley,r,ra reifer,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,14,0,ra reifer,r,mjj critchley,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,14,1,ra reifer,r,mjj critchley,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,14,2,ra reifer,r,mjj critchley,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,14,3,mjj critchley,r,ra reifer,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,14,4,mjj critchley,r,ra reifer,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
+1462646,2024-12-05,PKA,JKB,1,14,5,mjj critchley,r,ra reifer,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,5,
 1462646,2024-12-05,PKA,JKB,1,15,0,ra reifer,r,mjj critchley,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,5,Pace
 1462646,2024-12-05,PKA,JKB,1,15,1,mjj critchley,r,ra reifer,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,5,Pace
 1462646,2024-12-05,PKA,JKB,1,15,2,mjj critchley,r,ra reifer,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,5,Pace
@@ -3194,12 +3194,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462652,2024-12-08,LBL,JKB,2,4,3,rk paudel,r,a saud,jds neesham,right arm medium fast,4,0,4,False,,,2024,12,8,Pace
 1462652,2024-12-08,LBL,JKB,2,4,4,rk paudel,r,a saud,jds neesham,right arm medium fast,2,0,2,False,,,2024,12,8,Pace
 1462652,2024-12-08,LBL,JKB,2,4,5,rk paudel,r,a saud,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,8,Pace
-1462652,2024-12-08,LBL,JKB,2,5,0,rk paudel,r,a saud,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,5,1,rk paudel,r,a saud,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,5,2,rk paudel,r,a saud,mohammad mohsin,right-arm legbreak,0,4,4,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,5,3,rk paudel,r,a saud,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,5,4,rk paudel,r,a saud,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,5,5,a saud,r,rk paudel,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,5,0,rk paudel,r,a saud,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,5,1,rk paudel,r,a saud,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,5,2,rk paudel,r,a saud,mohammad mohsin,right arm legbreak,0,4,4,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,5,3,rk paudel,r,a saud,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,5,4,rk paudel,r,a saud,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,5,5,a saud,r,rk paudel,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
 1462652,2024-12-08,LBL,JKB,2,6,0,rk paudel,r,a saud,ln rajbanshi,slow left arm orthodox,4,0,4,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,6,1,rk paudel,r,a saud,ln rajbanshi,slow left arm orthodox,0,2,2,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,6,2,rk paudel,r,a saud,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,8,Spin
@@ -3213,24 +3213,24 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462652,2024-12-08,LBL,JKB,2,7,4,a saud,r,rk paudel,s malla,right arm offbreak,4,0,4,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,7,5,a saud,r,rk paudel,s malla,right arm offbreak,0,0,0,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,7,6,a saud,r,rk paudel,s malla,right arm offbreak,0,0,0,False,,,2024,12,8,Spin
-1462652,2024-12-08,LBL,JKB,2,8,0,rk paudel,r,a saud,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,8,1,a saud,r,rk paudel,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,8,2,a saud,r,rk paudel,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,8,3,a saud,r,rk paudel,mohammad mohsin,right-arm legbreak,0,1,1,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,8,4,rk paudel,r,a saud,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,8,5,rk paudel,r,a saud,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,8,0,rk paudel,r,a saud,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,8,1,a saud,r,rk paudel,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,8,2,a saud,r,rk paudel,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,8,3,a saud,r,rk paudel,mohammad mohsin,right arm legbreak,0,1,1,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,8,4,rk paudel,r,a saud,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,8,5,rk paudel,r,a saud,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,8,
 1462652,2024-12-08,LBL,JKB,2,9,0,rk paudel,r,a saud,s malla,right arm offbreak,1,0,1,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,9,1,a saud,r,rk paudel,s malla,right arm offbreak,1,0,1,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,9,2,rk paudel,r,a saud,s malla,right arm offbreak,1,0,1,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,9,3,a saud,r,rk paudel,s malla,right arm offbreak,1,0,1,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,9,4,rk paudel,r,a saud,s malla,right arm offbreak,1,0,1,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,9,5,a saud,r,rk paudel,s malla,right arm offbreak,0,0,0,True,bowled,a saud,2024,12,8,Spin
-1462652,2024-12-08,LBL,JKB,2,10,0,rk paudel,r,tj moores,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,10,1,tj moores,r,rk paudel,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,10,2,tj moores,r,rk paudel,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,10,3,tj moores,r,rk paudel,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,10,4,tj moores,r,rk paudel,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,10,5,rk paudel,r,tj moores,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,10,0,rk paudel,r,tj moores,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,10,1,tj moores,r,rk paudel,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,10,2,tj moores,r,rk paudel,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,10,3,tj moores,r,rk paudel,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,10,4,tj moores,r,rk paudel,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,10,5,rk paudel,r,tj moores,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,8,
 1462652,2024-12-08,LBL,JKB,2,11,0,tj moores,r,rk paudel,s malla,right arm offbreak,1,0,1,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,11,1,rk paudel,r,tj moores,s malla,right arm offbreak,1,0,1,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,11,2,tj moores,r,rk paudel,s malla,right arm offbreak,4,0,4,False,,,2024,12,8,Spin
@@ -3249,12 +3249,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462652,2024-12-08,LBL,JKB,2,13,3,tj moores,r,rk paudel,h thaker,right arm offbreak,0,0,0,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,13,4,tj moores,r,rk paudel,h thaker,right arm offbreak,3,0,3,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,13,5,rk paudel,r,tj moores,h thaker,right arm offbreak,2,0,2,False,,,2024,12,8,Spin
-1462652,2024-12-08,LBL,JKB,2,14,0,tj moores,r,rk paudel,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,14,1,tj moores,r,rk paudel,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,14,2,tj moores,r,rk paudel,mohammad mohsin,right-arm legbreak,3,0,3,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,14,3,rk paudel,r,tj moores,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,14,4,tj moores,r,rk paudel,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,8,
-1462652,2024-12-08,LBL,JKB,2,14,5,tj moores,r,rk paudel,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,14,0,tj moores,r,rk paudel,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,14,1,tj moores,r,rk paudel,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,14,2,tj moores,r,rk paudel,mohammad mohsin,right arm legbreak,3,0,3,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,14,3,rk paudel,r,tj moores,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,14,4,tj moores,r,rk paudel,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,8,
+1462652,2024-12-08,LBL,JKB,2,14,5,tj moores,r,rk paudel,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,8,
 1462652,2024-12-08,LBL,JKB,2,15,0,tj moores,r,rk paudel,h thaker,right arm offbreak,1,0,1,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,15,1,rk paudel,r,tj moores,h thaker,right arm offbreak,4,0,4,False,,,2024,12,8,Spin
 1462652,2024-12-08,LBL,JKB,2,15,2,rk paudel,r,tj moores,h thaker,right arm offbreak,0,0,0,False,,,2024,12,8,Spin
@@ -4690,36 +4690,36 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462659,2024-12-12,KTG,JKB,1,4,4,ss eskinazi,r,b sharki,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,12,Pace
 1462659,2024-12-12,KTG,JKB,1,4,5,ss eskinazi,r,b sharki,jds neesham,right arm medium fast,4,0,4,False,,,2024,12,12,Pace
 1462659,2024-12-12,KTG,JKB,1,4,6,ss eskinazi,r,b sharki,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,12,Pace
-1462659,2024-12-12,KTG,JKB,1,5,0,ss eskinazi,r,b sharki,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,5,1,ss eskinazi,r,b sharki,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,5,2,b sharki,r,ss eskinazi,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,5,3,b sharki,r,ss eskinazi,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,5,4,b sharki,r,ss eskinazi,mohammad mohsin,right-arm legbreak,0,0,0,True,caught,b sharki,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,5,5,mg erasmus,r,ss eskinazi,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,5,0,ss eskinazi,r,b sharki,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,5,1,ss eskinazi,r,b sharki,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,5,2,b sharki,r,ss eskinazi,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,5,3,b sharki,r,ss eskinazi,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,5,4,b sharki,r,ss eskinazi,mohammad mohsin,right arm legbreak,0,0,0,True,caught,b sharki,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,5,5,mg erasmus,r,ss eskinazi,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
 1462659,2024-12-12,KTG,JKB,1,6,0,ss eskinazi,r,mg erasmus,ln rajbanshi,slow left arm orthodox,0,0,0,True,lbw,ss eskinazi,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,6,1,s maharjan,l,mg erasmus,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,6,2,s maharjan,l,mg erasmus,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,6,3,s maharjan,l,mg erasmus,ln rajbanshi,slow left arm orthodox,0,0,0,True,caught,s maharjan,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,6,4,rashid khan,r,mg erasmus,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,6,5,rashid khan,r,mg erasmus,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,12,Spin
-1462659,2024-12-12,KTG,JKB,1,7,0,mg erasmus,r,rashid khan,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,7,1,rashid khan,r,mg erasmus,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,7,2,rashid khan,r,mg erasmus,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,7,3,mg erasmus,r,rashid khan,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,7,4,rashid khan,r,mg erasmus,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,7,5,mg erasmus,r,rashid khan,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,7,0,mg erasmus,r,rashid khan,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,7,1,rashid khan,r,mg erasmus,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,7,2,rashid khan,r,mg erasmus,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,7,3,mg erasmus,r,rashid khan,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,7,4,rashid khan,r,mg erasmus,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,7,5,mg erasmus,r,rashid khan,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
 1462659,2024-12-12,KTG,JKB,1,8,0,rashid khan,r,mg erasmus,a yadav,slow left arm orthodox,0,0,0,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,8,1,rashid khan,r,mg erasmus,a yadav,slow left arm orthodox,0,0,0,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,8,2,rashid khan,r,mg erasmus,a yadav,slow left arm orthodox,1,0,1,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,8,3,mg erasmus,r,rashid khan,a yadav,slow left arm orthodox,0,0,0,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,8,4,mg erasmus,r,rashid khan,a yadav,slow left arm orthodox,4,0,4,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,8,5,mg erasmus,r,rashid khan,a yadav,slow left arm orthodox,4,0,4,False,,,2024,12,12,Spin
-1462659,2024-12-12,KTG,JKB,1,9,0,rashid khan,r,mg erasmus,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,9,1,mg erasmus,r,rashid khan,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,9,2,mg erasmus,r,rashid khan,mohammad mohsin,right-arm legbreak,3,0,3,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,9,3,rashid khan,r,mg erasmus,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,9,4,rashid khan,r,mg erasmus,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,9,5,rashid khan,r,mg erasmus,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,9,0,rashid khan,r,mg erasmus,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,9,1,mg erasmus,r,rashid khan,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,9,2,mg erasmus,r,rashid khan,mohammad mohsin,right arm legbreak,3,0,3,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,9,3,rashid khan,r,mg erasmus,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,9,4,rashid khan,r,mg erasmus,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,9,5,rashid khan,r,mg erasmus,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,12,
 1462659,2024-12-12,KTG,JKB,1,10,0,mg erasmus,r,rashid khan,s malla,right arm offbreak,0,0,0,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,10,1,mg erasmus,r,rashid khan,s malla,right arm offbreak,1,0,1,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,10,2,rashid khan,r,mg erasmus,s malla,right arm offbreak,1,0,1,False,,,2024,12,12,Spin
@@ -4751,12 +4751,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462659,2024-12-12,KTG,JKB,1,14,3,p shrestha,r,mg erasmus,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,14,4,p shrestha,r,mg erasmus,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,14,5,p shrestha,r,mg erasmus,ln rajbanshi,slow left arm orthodox,0,0,0,True,bowled,p shrestha,2024,12,12,Spin
-1462659,2024-12-12,KTG,JKB,1,15,0,mg erasmus,r,karan kc,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,15,1,mg erasmus,r,karan kc,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,15,2,mg erasmus,r,karan kc,mohammad mohsin,right-arm legbreak,0,0,0,True,caught,mg erasmus,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,15,3,shahab alam,r,karan kc,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,15,4,shahab alam,r,karan kc,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,12,
-1462659,2024-12-12,KTG,JKB,1,15,5,karan kc,r,shahab alam,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,15,0,mg erasmus,r,karan kc,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,15,1,mg erasmus,r,karan kc,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,15,2,mg erasmus,r,karan kc,mohammad mohsin,right arm legbreak,0,0,0,True,caught,mg erasmus,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,15,3,shahab alam,r,karan kc,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,15,4,shahab alam,r,karan kc,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,12,
+1462659,2024-12-12,KTG,JKB,1,15,5,karan kc,r,shahab alam,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,12,
 1462659,2024-12-12,KTG,JKB,1,16,0,shahab alam,r,karan kc,s malla,right arm offbreak,0,0,0,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,16,1,shahab alam,r,karan kc,s malla,right arm offbreak,1,0,1,False,,,2024,12,12,Spin
 1462659,2024-12-12,KTG,JKB,1,16,2,karan kc,r,shahab alam,s malla,right arm offbreak,0,0,0,False,,,2024,12,12,Spin
@@ -5618,12 +5618,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462663,2024-12-14,CHR,JKB,1,5,3,s karki,r,hassan eisakhil,s malla,right arm offbreak,1,0,1,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,5,4,hassan eisakhil,r,s karki,s malla,right arm offbreak,0,0,0,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,5,5,hassan eisakhil,r,s karki,s malla,right arm offbreak,4,0,4,False,,,2024,12,14,Spin
-1462663,2024-12-14,CHR,JKB,1,6,0,s karki,r,hassan eisakhil,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,6,1,s karki,r,hassan eisakhil,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,6,2,s karki,r,hassan eisakhil,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,6,3,s karki,r,hassan eisakhil,mohammad mohsin,right-arm legbreak,0,0,0,True,bowled,s karki,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,6,4,kushal malla,l,hassan eisakhil,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,6,5,kushal malla,l,hassan eisakhil,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,6,0,s karki,r,hassan eisakhil,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,6,1,s karki,r,hassan eisakhil,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,6,2,s karki,r,hassan eisakhil,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,6,3,s karki,r,hassan eisakhil,mohammad mohsin,right arm legbreak,0,0,0,True,bowled,s karki,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,6,4,kushal malla,l,hassan eisakhil,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,6,5,kushal malla,l,hassan eisakhil,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,14,
 1462663,2024-12-14,CHR,JKB,1,7,0,kushal malla,l,hassan eisakhil,h thaker,right arm offbreak,0,0,0,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,7,1,kushal malla,l,hassan eisakhil,h thaker,right arm offbreak,1,0,1,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,7,2,hassan eisakhil,r,kushal malla,h thaker,right arm offbreak,6,0,6,False,,,2024,12,14,Spin
@@ -5631,12 +5631,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462663,2024-12-14,CHR,JKB,1,7,4,rs bopara,r,kushal malla,h thaker,right arm offbreak,0,0,0,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,7,5,rs bopara,r,kushal malla,h thaker,right arm offbreak,1,0,1,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,7,6,kushal malla,l,rs bopara,h thaker,right arm offbreak,0,0,0,False,,,2024,12,14,Spin
-1462663,2024-12-14,CHR,JKB,1,8,0,rs bopara,r,kushal malla,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,8,1,rs bopara,r,kushal malla,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,8,2,rs bopara,r,kushal malla,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,8,3,kushal malla,l,rs bopara,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,8,4,kushal malla,l,rs bopara,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,8,5,rs bopara,r,kushal malla,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,8,0,rs bopara,r,kushal malla,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,8,1,rs bopara,r,kushal malla,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,8,2,rs bopara,r,kushal malla,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,8,3,kushal malla,l,rs bopara,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,8,4,kushal malla,l,rs bopara,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,8,5,rs bopara,r,kushal malla,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,14,
 1462663,2024-12-14,CHR,JKB,1,9,0,kushal malla,l,rs bopara,h thaker,right arm offbreak,0,0,0,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,9,1,kushal malla,l,rs bopara,h thaker,right arm offbreak,0,0,0,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,9,2,kushal malla,l,rs bopara,h thaker,right arm offbreak,1,0,1,False,,,2024,12,14,Spin
@@ -5649,12 +5649,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462663,2024-12-14,CHR,JKB,1,10,3,rs bopara,r,kushal malla,s malla,right arm offbreak,1,0,1,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,10,4,kushal malla,l,rs bopara,s malla,right arm offbreak,0,0,0,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,10,5,kushal malla,l,rs bopara,s malla,right arm offbreak,4,0,4,False,,,2024,12,14,Spin
-1462663,2024-12-14,CHR,JKB,1,11,0,rs bopara,r,kushal malla,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,11,1,kushal malla,l,rs bopara,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,11,2,kushal malla,l,rs bopara,mohammad mohsin,right-arm legbreak,6,0,6,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,11,3,kushal malla,l,rs bopara,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,11,4,kushal malla,l,rs bopara,mohammad mohsin,right-arm legbreak,6,0,6,False,,,2024,12,14,
-1462663,2024-12-14,CHR,JKB,1,11,5,kushal malla,l,rs bopara,mohammad mohsin,right-arm legbreak,6,0,6,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,11,0,rs bopara,r,kushal malla,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,11,1,kushal malla,l,rs bopara,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,11,2,kushal malla,l,rs bopara,mohammad mohsin,right arm legbreak,6,0,6,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,11,3,kushal malla,l,rs bopara,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,11,4,kushal malla,l,rs bopara,mohammad mohsin,right arm legbreak,6,0,6,False,,,2024,12,14,
+1462663,2024-12-14,CHR,JKB,1,11,5,kushal malla,l,rs bopara,mohammad mohsin,right arm legbreak,6,0,6,False,,,2024,12,14,
 1462663,2024-12-14,CHR,JKB,1,12,0,rs bopara,r,kushal malla,ln rajbanshi,slow left arm orthodox,2,0,2,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,12,1,rs bopara,r,kushal malla,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,14,Spin
 1462663,2024-12-14,CHR,JKB,1,12,2,rs bopara,r,kushal malla,ln rajbanshi,slow left arm orthodox,1,0,1,False,,,2024,12,14,Spin
@@ -6936,13 +6936,13 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462668,2024-12-18,SPR,JKB,2,5,3,b bhandari,r,sa zaib,h thaker,right arm offbreak,0,1,1,False,,,2024,12,18,Spin
 1462668,2024-12-18,SPR,JKB,2,5,4,sa zaib,r,b bhandari,h thaker,right arm offbreak,1,0,1,False,,,2024,12,18,Spin
 1462668,2024-12-18,SPR,JKB,2,5,5,b bhandari,r,sa zaib,h thaker,right arm offbreak,1,0,1,False,,,2024,12,18,Spin
-1462668,2024-12-18,SPR,JKB,2,6,0,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,0,1,1,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,6,1,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,6,2,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,6,3,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,6,4,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,6,5,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,6,6,sa zaib,r,b bhandari,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,6,0,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,0,1,1,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,6,1,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,6,2,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,6,3,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,6,4,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,6,5,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,6,6,sa zaib,r,b bhandari,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,18,
 1462668,2024-12-18,SPR,JKB,2,7,0,b bhandari,r,sa zaib,k mahato,right arm medium fast,0,1,1,False,,,2024,12,18,Pace
 1462668,2024-12-18,SPR,JKB,2,7,1,b bhandari,r,sa zaib,k mahato,right arm medium fast,0,0,0,False,,,2024,12,18,Pace
 1462668,2024-12-18,SPR,JKB,2,7,2,b bhandari,r,sa zaib,k mahato,right arm medium fast,1,0,1,False,,,2024,12,18,Pace
@@ -6950,12 +6950,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462668,2024-12-18,SPR,JKB,2,7,4,bj mcmullen,r,b bhandari,k mahato,right arm medium fast,1,0,1,False,,,2024,12,18,Pace
 1462668,2024-12-18,SPR,JKB,2,7,5,b bhandari,r,bj mcmullen,k mahato,right arm medium fast,1,0,1,False,,,2024,12,18,Pace
 1462668,2024-12-18,SPR,JKB,2,7,6,bj mcmullen,r,b bhandari,k mahato,right arm medium fast,1,0,1,False,,,2024,12,18,Pace
-1462668,2024-12-18,SPR,JKB,2,8,0,bj mcmullen,r,b bhandari,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,8,1,b bhandari,r,bj mcmullen,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,8,2,b bhandari,r,bj mcmullen,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,8,3,b bhandari,r,bj mcmullen,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,8,4,bj mcmullen,r,b bhandari,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,8,5,bj mcmullen,r,b bhandari,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,8,0,bj mcmullen,r,b bhandari,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,8,1,b bhandari,r,bj mcmullen,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,8,2,b bhandari,r,bj mcmullen,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,8,3,b bhandari,r,bj mcmullen,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,8,4,bj mcmullen,r,b bhandari,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,8,5,bj mcmullen,r,b bhandari,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,18,
 1462668,2024-12-18,SPR,JKB,2,9,0,b bhandari,r,bj mcmullen,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,18,Pace
 1462668,2024-12-18,SPR,JKB,2,9,1,bj mcmullen,r,b bhandari,jds neesham,right arm medium fast,2,0,2,False,,,2024,12,18,Pace
 1462668,2024-12-18,SPR,JKB,2,9,2,bj mcmullen,r,b bhandari,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,18,Pace
@@ -6974,12 +6974,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462668,2024-12-18,SPR,JKB,2,11,3,bj mcmullen,r,b bhandari,s malla,right arm offbreak,1,0,1,False,,,2024,12,18,Spin
 1462668,2024-12-18,SPR,JKB,2,11,4,b bhandari,r,bj mcmullen,s malla,right arm offbreak,0,0,0,False,,,2024,12,18,Spin
 1462668,2024-12-18,SPR,JKB,2,11,5,b bhandari,r,bj mcmullen,s malla,right arm offbreak,0,0,0,False,,,2024,12,18,Spin
-1462668,2024-12-18,SPR,JKB,2,12,0,bj mcmullen,r,b bhandari,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,12,1,b bhandari,r,bj mcmullen,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,12,2,b bhandari,r,bj mcmullen,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,12,3,b bhandari,r,bj mcmullen,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,12,4,b bhandari,r,bj mcmullen,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,12,5,bj mcmullen,r,b bhandari,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,12,0,bj mcmullen,r,b bhandari,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,12,1,b bhandari,r,bj mcmullen,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,12,2,b bhandari,r,bj mcmullen,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,12,3,b bhandari,r,bj mcmullen,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,12,4,b bhandari,r,bj mcmullen,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,12,5,bj mcmullen,r,b bhandari,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,18,
 1462668,2024-12-18,SPR,JKB,2,13,0,b bhandari,r,bj mcmullen,k mahato,right arm medium fast,0,0,0,False,,,2024,12,18,Pace
 1462668,2024-12-18,SPR,JKB,2,13,1,b bhandari,r,bj mcmullen,k mahato,right arm medium fast,1,0,1,False,,,2024,12,18,Pace
 1462668,2024-12-18,SPR,JKB,2,13,2,bj mcmullen,r,b bhandari,k mahato,right arm medium fast,1,0,1,False,,,2024,12,18,Pace
@@ -7010,9 +7010,9 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462668,2024-12-18,SPR,JKB,2,17,3,b bhandari,r,ds airee,s malla,right arm offbreak,1,0,1,False,,,2024,12,18,Spin
 1462668,2024-12-18,SPR,JKB,2,17,4,ds airee,r,b bhandari,s malla,right arm offbreak,0,0,0,False,,,2024,12,18,Spin
 1462668,2024-12-18,SPR,JKB,2,17,5,ds airee,r,b bhandari,s malla,right arm offbreak,6,0,6,False,,,2024,12,18,Spin
-1462668,2024-12-18,SPR,JKB,2,18,0,b bhandari,r,ds airee,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,18,1,ds airee,r,b bhandari,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,18,
-1462668,2024-12-18,SPR,JKB,2,18,2,ds airee,r,b bhandari,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,18,0,b bhandari,r,ds airee,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,18,1,ds airee,r,b bhandari,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,18,
+1462668,2024-12-18,SPR,JKB,2,18,2,ds airee,r,b bhandari,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,18,
 1462669,2024-12-19,KNY,JKB,1,0,0,d khanal,r,ja kolsawala,h thaker,right arm offbreak,1,0,1,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,0,1,ja kolsawala,r,d khanal,h thaker,right arm offbreak,0,0,0,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,0,2,ja kolsawala,r,d khanal,h thaker,right arm offbreak,0,0,0,False,,,2024,12,19,Spin
@@ -7051,12 +7051,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462669,2024-12-19,KNY,JKB,1,5,3,wg bosisto,r,zeeshan maqsood,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,19,Pace
 1462669,2024-12-19,KNY,JKB,1,5,4,wg bosisto,r,zeeshan maqsood,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,19,Pace
 1462669,2024-12-19,KNY,JKB,1,5,5,wg bosisto,r,zeeshan maqsood,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,19,Pace
-1462669,2024-12-19,KNY,JKB,1,6,0,wg bosisto,r,zeeshan maqsood,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,6,1,zeeshan maqsood,r,wg bosisto,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,6,2,zeeshan maqsood,r,wg bosisto,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,6,3,zeeshan maqsood,r,wg bosisto,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,6,4,zeeshan maqsood,r,wg bosisto,mohammad mohsin,right-arm legbreak,0,0,0,True,caught,zeeshan maqsood,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,6,5,cak walton,r,wg bosisto,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,6,0,wg bosisto,r,zeeshan maqsood,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,6,1,zeeshan maqsood,r,wg bosisto,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,6,2,zeeshan maqsood,r,wg bosisto,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,6,3,zeeshan maqsood,r,wg bosisto,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,6,4,zeeshan maqsood,r,wg bosisto,mohammad mohsin,right arm legbreak,0,0,0,True,caught,zeeshan maqsood,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,6,5,cak walton,r,wg bosisto,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,19,
 1462669,2024-12-19,KNY,JKB,1,7,0,wg bosisto,r,cak walton,jds neesham,right arm medium fast,2,0,2,False,,,2024,12,19,Pace
 1462669,2024-12-19,KNY,JKB,1,7,1,wg bosisto,r,cak walton,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,19,Pace
 1462669,2024-12-19,KNY,JKB,1,7,2,wg bosisto,r,cak walton,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,19,Pace
@@ -7064,12 +7064,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462669,2024-12-19,KNY,JKB,1,7,4,wg bosisto,r,cak walton,jds neesham,right arm medium fast,2,0,2,False,,,2024,12,19,Pace
 1462669,2024-12-19,KNY,JKB,1,7,5,wg bosisto,r,cak walton,jds neesham,right arm medium fast,0,1,1,False,,,2024,12,19,Pace
 1462669,2024-12-19,KNY,JKB,1,7,6,wg bosisto,r,cak walton,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,19,Pace
-1462669,2024-12-19,KNY,JKB,1,8,0,cak walton,r,wg bosisto,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,8,1,cak walton,r,wg bosisto,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,8,2,wg bosisto,r,cak walton,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,8,3,wg bosisto,r,cak walton,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,8,4,cak walton,r,wg bosisto,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,8,5,cak walton,r,wg bosisto,mohammad mohsin,right-arm legbreak,0,1,1,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,8,0,cak walton,r,wg bosisto,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,8,1,cak walton,r,wg bosisto,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,8,2,wg bosisto,r,cak walton,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,8,3,wg bosisto,r,cak walton,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,8,4,cak walton,r,wg bosisto,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,8,5,cak walton,r,wg bosisto,mohammad mohsin,right arm legbreak,0,1,1,False,,,2024,12,19,
 1462669,2024-12-19,KNY,JKB,1,9,0,cak walton,r,wg bosisto,ln rajbanshi,slow left arm orthodox,1,0,1,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,9,1,wg bosisto,r,cak walton,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,9,2,wg bosisto,r,cak walton,ln rajbanshi,slow left arm orthodox,0,0,0,True,stumped,wg bosisto,2024,12,19,Spin
@@ -7112,24 +7112,24 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462669,2024-12-19,KNY,JKB,1,15,3,nk yadav,r,gulsan jha,s malla,right arm offbreak,1,0,1,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,15,4,gulsan jha,l,nk yadav,s malla,right arm offbreak,1,0,1,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,15,5,nk yadav,r,gulsan jha,s malla,right arm offbreak,0,0,0,False,,,2024,12,19,Spin
-1462669,2024-12-19,KNY,JKB,1,16,0,gulsan jha,l,nk yadav,mohammad mohsin,right-arm legbreak,0,0,0,True,bowled,gulsan jha,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,16,1,ubs thakuri,r,nk yadav,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,16,2,ubs thakuri,r,nk yadav,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,16,3,ubs thakuri,r,nk yadav,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,16,4,ubs thakuri,r,nk yadav,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,16,5,ubs thakuri,r,nk yadav,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,16,0,gulsan jha,l,nk yadav,mohammad mohsin,right arm legbreak,0,0,0,True,bowled,gulsan jha,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,16,1,ubs thakuri,r,nk yadav,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,16,2,ubs thakuri,r,nk yadav,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,16,3,ubs thakuri,r,nk yadav,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,16,4,ubs thakuri,r,nk yadav,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,16,5,ubs thakuri,r,nk yadav,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
 1462669,2024-12-19,KNY,JKB,1,17,0,nk yadav,r,ubs thakuri,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,17,1,nk yadav,r,ubs thakuri,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,17,2,nk yadav,r,ubs thakuri,ln rajbanshi,slow left arm orthodox,1,0,1,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,17,3,ubs thakuri,r,nk yadav,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,17,4,ubs thakuri,r,nk yadav,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,19,Spin
 1462669,2024-12-19,KNY,JKB,1,17,5,ubs thakuri,r,nk yadav,ln rajbanshi,slow left arm orthodox,0,0,0,False,,,2024,12,19,Spin
-1462669,2024-12-19,KNY,JKB,1,18,0,nk yadav,r,ubs thakuri,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,18,1,ubs thakuri,r,nk yadav,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,18,2,ubs thakuri,r,nk yadav,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,18,3,ubs thakuri,r,nk yadav,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,18,4,ubs thakuri,r,nk yadav,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,19,
-1462669,2024-12-19,KNY,JKB,1,18,5,ubs thakuri,r,nk yadav,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,18,0,nk yadav,r,ubs thakuri,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,18,1,ubs thakuri,r,nk yadav,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,18,2,ubs thakuri,r,nk yadav,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,18,3,ubs thakuri,r,nk yadav,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,18,4,ubs thakuri,r,nk yadav,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,19,
+1462669,2024-12-19,KNY,JKB,1,18,5,ubs thakuri,r,nk yadav,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,19,
 1462669,2024-12-19,KNY,JKB,1,19,0,nk yadav,r,ubs thakuri,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,19,Pace
 1462669,2024-12-19,KNY,JKB,1,19,1,nk yadav,r,ubs thakuri,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,19,Pace
 1462669,2024-12-19,KNY,JKB,1,19,2,ubs thakuri,r,nk yadav,jds neesham,right arm medium fast,2,0,2,False,,,2024,12,19,Pace
@@ -7302,12 +7302,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462670,2024-12-21,SPR,JKB,1,7,3,sa zaib,r,b bhandari,s malla,right arm offbreak,4,0,4,False,,,2024,12,21,Spin
 1462670,2024-12-21,SPR,JKB,1,7,4,sa zaib,r,b bhandari,s malla,right arm offbreak,0,0,0,False,,,2024,12,21,Spin
 1462670,2024-12-21,SPR,JKB,1,7,5,sa zaib,r,b bhandari,s malla,right arm offbreak,6,0,6,False,,,2024,12,21,Spin
-1462670,2024-12-21,SPR,JKB,1,8,0,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,8,1,sa zaib,r,b bhandari,mohammad mohsin,right-arm legbreak,2,0,2,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,8,2,sa zaib,r,b bhandari,mohammad mohsin,right-arm legbreak,0,1,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,8,3,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,8,4,sa zaib,r,b bhandari,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,8,5,sa zaib,r,b bhandari,mohammad mohsin,right-arm legbreak,3,0,3,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,8,0,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,8,1,sa zaib,r,b bhandari,mohammad mohsin,right arm legbreak,2,0,2,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,8,2,sa zaib,r,b bhandari,mohammad mohsin,right arm legbreak,0,1,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,8,3,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,8,4,sa zaib,r,b bhandari,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,8,5,sa zaib,r,b bhandari,mohammad mohsin,right arm legbreak,3,0,3,False,,,2024,12,21,
 1462670,2024-12-21,SPR,JKB,1,9,0,sa zaib,r,b bhandari,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,9,1,sa zaib,r,b bhandari,jds neesham,right arm medium fast,6,0,6,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,9,2,sa zaib,r,b bhandari,jds neesham,right arm medium fast,4,0,4,False,,,2024,12,21,Pace
@@ -7315,12 +7315,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462670,2024-12-21,SPR,JKB,1,9,4,b bhandari,r,sa zaib,jds neesham,right arm medium fast,1,0,1,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,9,5,sa zaib,r,b bhandari,jds neesham,right arm medium fast,0,1,1,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,9,6,sa zaib,r,b bhandari,jds neesham,right arm medium fast,4,0,4,False,,,2024,12,21,Pace
-1462670,2024-12-21,SPR,JKB,1,10,0,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,6,0,6,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,10,1,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,10,2,sa zaib,r,b bhandari,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,10,3,sa zaib,r,b bhandari,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,10,4,sa zaib,r,b bhandari,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,10,5,b bhandari,r,sa zaib,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,10,0,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,6,0,6,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,10,1,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,10,2,sa zaib,r,b bhandari,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,10,3,sa zaib,r,b bhandari,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,10,4,sa zaib,r,b bhandari,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,10,5,b bhandari,r,sa zaib,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
 1462670,2024-12-21,SPR,JKB,1,11,0,b bhandari,r,sa zaib,k mahato,right arm medium fast,1,0,1,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,11,1,sa zaib,r,b bhandari,k mahato,right arm medium fast,2,0,2,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,11,2,sa zaib,r,b bhandari,k mahato,right arm medium fast,2,0,2,False,,,2024,12,21,Pace
@@ -7339,12 +7339,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462670,2024-12-21,SPR,JKB,1,13,3,harmeet singh,r,bj mcmullen,s malla,right arm offbreak,1,0,1,False,,,2024,12,21,Spin
 1462670,2024-12-21,SPR,JKB,1,13,4,bj mcmullen,r,harmeet singh,s malla,right arm offbreak,2,0,2,False,,,2024,12,21,Spin
 1462670,2024-12-21,SPR,JKB,1,13,5,bj mcmullen,r,harmeet singh,s malla,right arm offbreak,6,0,6,False,,,2024,12,21,Spin
-1462670,2024-12-21,SPR,JKB,1,14,0,harmeet singh,r,bj mcmullen,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,14,1,bj mcmullen,r,harmeet singh,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,14,2,harmeet singh,r,bj mcmullen,mohammad mohsin,right-arm legbreak,6,0,6,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,14,3,harmeet singh,r,bj mcmullen,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,14,4,bj mcmullen,r,harmeet singh,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,14,5,harmeet singh,r,bj mcmullen,mohammad mohsin,right-arm legbreak,0,0,0,True,caught,harmeet singh,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,14,0,harmeet singh,r,bj mcmullen,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,14,1,bj mcmullen,r,harmeet singh,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,14,2,harmeet singh,r,bj mcmullen,mohammad mohsin,right arm legbreak,6,0,6,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,14,3,harmeet singh,r,bj mcmullen,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,14,4,bj mcmullen,r,harmeet singh,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,14,5,harmeet singh,r,bj mcmullen,mohammad mohsin,right arm legbreak,0,0,0,True,caught,harmeet singh,2024,12,21,
 1462670,2024-12-21,SPR,JKB,1,15,0,bj mcmullen,r,ds airee,jds neesham,right arm medium fast,2,0,2,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,15,1,bj mcmullen,r,ds airee,jds neesham,right arm medium fast,0,1,1,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,15,2,ds airee,r,bj mcmullen,jds neesham,right arm medium fast,2,0,2,False,,,2024,12,21,Pace
@@ -7363,12 +7363,12 @@ match_id,date,batting_team,bowling_team,inning,over,ball,batter,batting_side,non
 1462670,2024-12-21,SPR,JKB,1,17,3,sc kuggeleijn,r,ds airee,jds neesham,right arm medium fast,4,0,4,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,17,4,sc kuggeleijn,r,ds airee,jds neesham,right arm medium fast,4,0,4,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,17,5,sc kuggeleijn,r,ds airee,jds neesham,right arm medium fast,0,0,0,False,,,2024,12,21,Pace
-1462670,2024-12-21,SPR,JKB,1,18,0,ds airee,r,sc kuggeleijn,mohammad mohsin,right-arm legbreak,0,0,0,True,caught,ds airee,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,18,1,aarif sheikh,r,sc kuggeleijn,mohammad mohsin,right-arm legbreak,0,0,0,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,18,2,aarif sheikh,r,sc kuggeleijn,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,18,3,sc kuggeleijn,r,aarif sheikh,mohammad mohsin,right-arm legbreak,1,0,1,False,,,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,18,4,aarif sheikh,r,sc kuggeleijn,mohammad mohsin,right-arm legbreak,0,0,0,True,caught,aarif sheikh,2024,12,21,
-1462670,2024-12-21,SPR,JKB,1,18,5,i pandey,r,sc kuggeleijn,mohammad mohsin,right-arm legbreak,4,0,4,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,18,0,ds airee,r,sc kuggeleijn,mohammad mohsin,right arm legbreak,0,0,0,True,caught,ds airee,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,18,1,aarif sheikh,r,sc kuggeleijn,mohammad mohsin,right arm legbreak,0,0,0,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,18,2,aarif sheikh,r,sc kuggeleijn,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,18,3,sc kuggeleijn,r,aarif sheikh,mohammad mohsin,right arm legbreak,1,0,1,False,,,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,18,4,aarif sheikh,r,sc kuggeleijn,mohammad mohsin,right arm legbreak,0,0,0,True,caught,aarif sheikh,2024,12,21,
+1462670,2024-12-21,SPR,JKB,1,18,5,i pandey,r,sc kuggeleijn,mohammad mohsin,right arm legbreak,4,0,4,False,,,2024,12,21,
 1462670,2024-12-21,SPR,JKB,1,19,0,sc kuggeleijn,r,i pandey,k mahato,right arm medium fast,0,0,0,True,bowled,sc kuggeleijn,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,19,1,nb budayair,r,i pandey,k mahato,right arm medium fast,2,0,2,False,,,2024,12,21,Pace
 1462670,2024-12-21,SPR,JKB,1,19,2,nb budayair,r,i pandey,k mahato,right arm medium fast,6,0,6,False,,,2024,12,21,Pace
