@@ -1,65 +1,65 @@
-match_id,season,date,match_number,stage,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,result,total_1stinning,total_2ndinning,wicket_1stinning,wicket_2ndinning,over_1stinning,over_2ndinning,player_of_match,umpire1,umpire2
-1462596,1,2024-11-30,1,League,BIK,JAB,JAB,field,JAB,0,8,,127,131,10,2,19.0,15.3,BKEL Milantha,DN Subedi,VK Jha
-1462640,1,2024-12-02,2,League,KAG,CHR,CHR,field,CHR,0,5,,111,114,9,5,20.0,17.1,Sohail Tanvir,BB Pradhan,HR Giri
-1462641,1,2024-12-02,3,League,KAY,JAB,KAY,bat,JAB,0,8,,141,142,7,2,20.0,15.1,AK Sah,Bismillah Shinwari,Rashid Riaz
-1462642,1,2024-12-03,4,League,SUP,BIK,BIK,field,SUP,90,0,,182,92,7,10,20.0,16.1,DS Airee,DN Subedi,HR Giri
-1462643,1,2024-12-03,5,League,CHR,POA,POA,field,CHR,87,0,,161,74,7,10,20.0,13.2,R Dhakal,Bismillah Shinwari,VK Jha
-1462644,1,2024-12-04,6,League,KAY,KAG,KAG,field,KAG,0,3,,149,153,5,7,20.0,19.3,S Maharjan,HR Giri,Rashid Riaz
-1462645,1,2024-12-04,7,League,LUL,BIK,BIK,field,BIK,0,2,,191,193,7,8,20.0,19.5,Lokesh Bam,Bismillah Shinwari,BB Pradhan
-1462646,1,2024-12-05,8,League,POA,JAB,JAB,field,JAB,0,7,,138,143,7,3,20.0,17.1,JDS Neesham,DN Subedi,VK Jha
-1462647,1,2024-12-05,9,League,SUP,KAG,KAG,field,SUP,73,0,,167,94,6,10,20.0,15.5,N Saud,HR Giri,Rashid Riaz
-1462648,1,2024-12-06,10,League,CHR,KAY,KAY,field,KAY,0,6,,130,132,7,4,20.0,19.5,BP Sharma,Bismillah Shinwari,DN Subedi
-1462649,1,2024-12-06,11,League,LUL,POA,LUL,bat,POA,0,10,,170,176,5,0,20.0,16.5,AGS Gous,BB Pradhan,HR Giri
-1462650,1,2024-12-07,12,League,SUP,LUL,LUL,field,SUP,45,0,,187,142,4,9,20.0,20.0,SA Zaib,BB Pradhan,Rashid Riaz
-1462651,1,2024-12-07,13,League,KAY,BIK,BIK,field,KAY,7,0,,133,126,10,8,20.0,20.0,WG Bosisto,HR Giri,VK Jha
-1462652,1,2024-12-08,14,League,JAB,LUL,LUL,field,JAB,1,0,,136,135,9,8,20.0,20.0,H Thaker,DN Subedi,HR Giri
-1462653,1,2024-12-08,15,League,CHR,SUP,CHR,bat,CHR,33,0,,164,131,5,10,20.0,18.2,Hassan Eisakhil,Bismillah Shinwari,Rashid Riaz
-1462654,1,2024-12-10,16,League,LUL,CHR,CHR,field,LUL,33,0,,167,134,6,8,20.0,20.0,RK Paudel,BB Pradhan,HR Giri
-1462655,1,2024-12-10,17,League,POA,KAY,POA,bat,KAY,0,7,,103,106,10,3,16.3,15.0,WG Bosisto,Bismillah Shinwari,Sanjay Gurung
-1462656,1,2024-12-11,18,League,SUP,JAB,JAB,field,SUP,72,0,,123,51,9,10,20.0,12.1,I Pandey,DN Subedi,VK Jha
-1462657,1,2024-12-11,19,League,KAG,LUL,KAG,bat,KAG,18,0,,103,85,10,10,19.2,19.2,Karan KC,HR Giri,Rashid Riaz
-1462658,1,2024-12-12,20,League,BIK,POA,BIK,bat,POA,0,0,tie,139,139,7,6,20.0,20.0,RA Reifer,Bismillah Shinwari,VK Jha
-1462659,1,2024-12-12,21,League,KAG,JAB,KAG,bat,JAB,0,5,,101,104,10,5,19.3,15.5,LN Rajbanshi,HR Giri,Sanjay Gurung
-1462660,1,2024-12-13,22,League,KAY,LUL,LUL,field,KAY,5,0,,128,123,8,7,20.0,20.0,WG Bosisto,HR Giri,Rashid Riaz
-1462661,1,2024-12-13,23,League,BIK,CHR,BIK,bat,BIK,51,0,,181,130,5,6,20.0,20.0,Basir Ahamad,Bismillah Shinwari,BB Pradhan
-1462662,1,2024-12-14,24,League,POA,KAG,KAG,field,KAG,0,6,,138,142,8,4,20.0,14.1,SS Eskinazi,DN Subedi,Rashid Riaz
-1462663,1,2024-12-14,25,League,CHR,JAB,CHR,bat,CHR,32,0,,180,148,5,10,20.0,18.0,Kushal Malla,Sanjay Gurung,VK Jha
-1462664,1,2024-12-15,26,League,BIK,KAG,KAG,field,KAG,0,1,,117,120,10,9,19.5,18.1,D Kandel,BB Pradhan,DN Subedi
-1462665,1,2024-12-15,27,League,SUP,POA,POA,field,SUP,5,0,,153,148,7,10,20.0,19.4,SC Kuggeleijn,Bismillah Shinwari,Rashid Riaz
-1462666,1,2024-12-16,28,League,KAY,SUP,SUP,field,SUP,0,6,,101,105,10,4,20.0,15.2,DS Airee,HR Giri,Sanjay Gurung
-1462667,1,2024-12-18,29,Eliminator,KAY,CHR,CHR,field,KAY,21,0,,175,154,6,9,20.0,20.0,CAK Walton,Rashid Riaz,Sanjay Gurung
-1462668,1,2024-12-18,30,Qualifier 1,JAB,SUP,JAB,bat,SUP,0,8,,139,141,9,2,20.0,18.3,B Bhandari,Bismillah Shinwari,BB Pradhan
-1462669,1,2024-12-19,31,Qualifier 2,KAY,JAB,JAB,field,JAB,0,2,,118,119,9,8,20.0,19.0,JDS Neesham,DN Subedi,VK Jha
-1462670,1,2024-12-21,32,Final,SUP,JAB,SUP,bat,JAB,0,5,,184,185,9,5,20.0,19.2,BKEL Milantha,Bismillah Shinwari,Rashid Riaz
-1510977,2,2025-11-17,1,League,JAB,KAG,KAG,field,KAG,0,5,,130,131,6,5,20.0,18.0,Milind Kumar,BB Pradhan,RR Wimalasiri
-1510978,2,2025-11-18,2,League,KAY,CHR,CHR,field,CHR,0,4,,166,171,3,6,20.0,19.1,RS Bopara,RMPJ Rambukwella,VK Jha
-1510979,2,2025-11-18,3,League,BIK,POA,POA,field,BIK,53,0,,220,167,6,10,20.0,18.5,Lokesh Bam,BB Pradhan,RR Wimalasiri
-1510980,2,2025-11-19,4,League,SUP,KAG,KAG,field,SUP,29,0,,147,118,10,10,20.0,16.5,Harmeet Singh,RMPJ Rambukwella,VK Jha
-1510981,2,2025-11-20,5,League,CHR,LUL,LUL,field,LUL,0,6,,142,146,7,4,20.0,18.3,R Trumpelmann,DN Subedi,RR Wimalasiri
-1510982,2,2025-11-21,6,League,SUP,POA,POA,field,SUP,18,0,,193,175,7,8,20.0,20.0,J Brown,DN Subedi,RMPJ Rambukwella
-1510983,2,2025-11-22,7,League,LUL,KAY,KAY,field,KAY,0,9,,156,161,8,1,20.0,12.2,MRJ Watt,DN Subedi,RR Wimalasiri
-1510984,2,2025-11-22,8,League,KAG,BIK,BIK,field,BIK,0,5,,134,135,6,5,20.0,17.1,M de Lange,BB Pradhan,RMPJ Rambukwella
-1510985,2,2025-11-24,9,League,BIK,JAB,JAB,field,BIK,9,0,,135,126,7,9,20.0,20.0,S Lamichhane,DN Subedi,RR Wimalasiri
-1510986,2,2025-11-24,10,League,SUP,KAY,KAY,field,SUP,45,0,,139,94,9,10,20.0,19.2,DS Airee,BB Pradhan,VK Jha
-1510987,2,2025-11-25,11,League,KAG,LUL,LUL,field,KAG,22,0,,157,135,8,10,20.0,19.1,Karan KC,BB Pradhan,RR Wimalasiri
-1510988,2,2025-11-26,12,League,CHR,BIK,BIK,field,CHR,48,0,,174,126,5,10,20.0,16.5,R Kumar,RMPJ Rambukwella,RR Wimalasiri
-1510989,2,2025-11-27,13,League,LUL,SUP,SUP,field,SUP,0,7,,143,145,10,3,19.4,18.2,B Bhandari,DN Subedi,RR Wimalasiri
-1510990,2,2025-11-27,14,League,POA,JAB,POA,bat,POA,25,0,,155,130,6,9,20.0,20.0,SL Verma,BB Pradhan,RMPJ Rambukwella
-1510991,2,2025-11-28,15,League,KAG,CHR,CHR,field,KAG,53,0,,142,89,10,10,19.4,17.2,JA Simpson,BB Pradhan,RR Wimalasiri
-1510992,2,2025-11-28,16,League,KAY,BIK,KAY,bat,BIK,0,3,,160,163,3,7,20.0,19.5,Basir Ahamad,DN Subedi,RMPJ Rambukwella
-1510993,2,2025-11-29,17,League,POA,LUL,LUL,field,LUL,0,3,,150,151,5,7,20.0,19.4,RK Paudel,BB Pradhan,RMPJ Rambukwella
-1510994,2,2025-11-29,18,League,JAB,SUP,JAB,bat,SUP,0,6,,145,148,8,4,20.0,17.4,I Pandey,DN Subedi,RR Wimalasiri
-1510995,2,2025-11-30,19,League,KAY,KAG,KAY,bat,KAG,0,5,,149,155,7,5,20.0,18.0,MG Erasmus,RMPJ Rambukwella,RR Wimalasiri
-1510996,2,2025-12-02,20,League,CHR,JAB,CHR,bat,JAB,0,6,,176,180,4,4,20.0,17.3,AK Sah,BB Pradhan,RR Wimalasiri
-1510997,2,2025-12-02,21,League,POA,KAY,KAY,field,POA,34,0,,201,167,2,10,20.0,19.0,AM Rossington,LE Hannibal,RMPJ Rambukwella
-1510998,2,2025-12-03,22,League,BIK,LUL,LUL,field,LUL,0,5,,144,145,8,5,20.0,17.4,S Malla,RMPJ Rambukwella,RR Wimalasiri
-1510999,2,2025-12-04,23,League,KAG,POA,POA,field,KAG,13,0,,165,152,8,10,20.0,20.0,B Sharki,BB Pradhan,RMPJ Rambukwella
-1511000,2,2025-12-04,24,League,SUP,CHR,CHR,field,SUP,49,0,,169,120,4,10,20.0,17.1,CA Lynn,DN Subedi,LE Hannibal
-1511001,2,2025-12-05,25,League,JAB,LUL,JAB,bat,LUL,0,4,,132,136,6,6,20.0,19.1,RK Paudel,RMPJ Rambukwella,RR Wimalasiri
-1511002,2,2025-12-06,26,League,SUP,BIK,BIK,field,BIK,0,6,,147,150,6,4,20.0,11.5,F du Plessis,LE Hannibal,RR Wimalasiri
-1511003,2,2025-12-06,27,League,CHR,POA,CHR,bat,POA,0,8,,120,121,6,2,20.0,19.4,AM Rossington,BB Pradhan,DN Subedi
-1511004,2,2025-12-07,28,League,KAY,JAB,JAB,field,KAY,3,0,,129,126,9,7,20.0,20.0,WG Bosisto,DN Subedi,VK Jha
-1511005,2,2025-12-09,29,Qualifier 1,SUP,BIK,BIK,field,SUP,77,0,,155,78,7,10,20.0,14.1,B Bhandari,LE Hannibal,RR Wimalasiri
-1511006,2,2025-12-10,30,Eliminator,KAG,LUL,KAG,bat,LUL,0,4,,111,112,10,6,19.1,17.4,S Malla,BB Pradhan,LE Hannibal
-1511007,2,2025-12-11,31,Qualifier 2,LUL,BIK,BIK,field,LUL,40,0,,134,94,8,10,20.0,17.5,TR Bhandari,LE Hannibal,RR Wimalasiri
-1511008,2,2025-12-13,32,Final,SUP,LUL,SUP,bat,LUL,0,6,,85,86,10,4,19.1,9.0,R Trumpelmann,LE Hannibal,RR Wimalasiri
+match_id,season,date,match_number,stage,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,result,total_1stinning,total_2ndinning,wicket_1stinning,wicket_2ndinning,ball_1stinning,ball_2ndinning,player_of_match,umpire1,umpire2
+1462596,1,2024-11-30,1,League,BIK,JAB,JAB,field,JAB,0,8,,127,131,10,2,114,93,BKEL Milantha,DN Subedi,VK Jha
+1462640,1,2024-12-02,2,League,KAG,CHR,CHR,field,CHR,0,5,,111,114,9,5,120,103,Sohail Tanvir,BB Pradhan,HR Giri
+1462641,1,2024-12-02,3,League,KAY,JAB,KAY,bat,JAB,0,8,,141,142,7,2,120,91,AK Sah,Bismillah Shinwari,Rashid Riaz
+1462642,1,2024-12-03,4,League,SUP,BIK,BIK,field,SUP,90,0,,182,92,7,10,120,97,DS Airee,DN Subedi,HR Giri
+1462643,1,2024-12-03,5,League,CHR,POA,POA,field,CHR,87,0,,161,74,7,10,120,80,R Dhakal,Bismillah Shinwari,VK Jha
+1462644,1,2024-12-04,6,League,KAY,KAG,KAG,field,KAG,0,3,,149,153,5,7,120,117,S Maharjan,HR Giri,Rashid Riaz
+1462645,1,2024-12-04,7,League,LUL,BIK,BIK,field,BIK,0,2,,191,193,7,8,120,119,Lokesh Bam,Bismillah Shinwari,BB Pradhan
+1462646,1,2024-12-05,8,League,POA,JAB,JAB,field,JAB,0,7,,138,143,7,3,120,103,JDS Neesham,DN Subedi,VK Jha
+1462647,1,2024-12-05,9,League,SUP,KAG,KAG,field,SUP,73,0,,167,94,6,10,120,95,N Saud,HR Giri,Rashid Riaz
+1462648,1,2024-12-06,10,League,CHR,KAY,KAY,field,KAY,0,6,,130,132,7,4,120,119,BP Sharma,Bismillah Shinwari,DN Subedi
+1462649,1,2024-12-06,11,League,LUL,POA,LUL,bat,POA,0,10,,170,176,5,0,120,101,AGS Gous,BB Pradhan,HR Giri
+1462650,1,2024-12-07,12,League,SUP,LUL,LUL,field,SUP,45,0,,187,142,4,9,120,120,SA Zaib,BB Pradhan,Rashid Riaz
+1462651,1,2024-12-07,13,League,KAY,BIK,BIK,field,KAY,7,0,,133,126,10,8,120,120,WG Bosisto,HR Giri,VK Jha
+1462652,1,2024-12-08,14,League,JAB,LUL,LUL,field,JAB,1,0,,136,135,9,8,120,120,H Thaker,DN Subedi,HR Giri
+1462653,1,2024-12-08,15,League,CHR,SUP,CHR,bat,CHR,33,0,,164,131,5,10,120,110,Hassan Eisakhil,Bismillah Shinwari,Rashid Riaz
+1462654,1,2024-12-10,16,League,LUL,CHR,CHR,field,LUL,33,0,,167,134,6,8,120,120,RK Paudel,BB Pradhan,HR Giri
+1462655,1,2024-12-10,17,League,POA,KAY,POA,bat,KAY,0,7,,103,106,10,3,99,90,WG Bosisto,Bismillah Shinwari,Sanjay Gurung
+1462656,1,2024-12-11,18,League,SUP,JAB,JAB,field,SUP,72,0,,123,51,9,10,120,73,I Pandey,DN Subedi,VK Jha
+1462657,1,2024-12-11,19,League,KAG,LUL,KAG,bat,KAG,18,0,,103,85,10,10,116,116,Karan KC,HR Giri,Rashid Riaz
+1462658,1,2024-12-12,20,League,BIK,POA,BIK,bat,POA,0,0,tie,139,139,7,6,120,120,RA Reifer,Bismillah Shinwari,VK Jha
+1462659,1,2024-12-12,21,League,KAG,JAB,KAG,bat,JAB,0,5,,101,104,10,5,117,95,LN Rajbanshi,HR Giri,Sanjay Gurung
+1462660,1,2024-12-13,22,League,KAY,LUL,LUL,field,KAY,5,0,,128,123,8,7,120,120,WG Bosisto,HR Giri,Rashid Riaz
+1462661,1,2024-12-13,23,League,BIK,CHR,BIK,bat,BIK,51,0,,181,130,5,6,120,120,Basir Ahamad,Bismillah Shinwari,BB Pradhan
+1462662,1,2024-12-14,24,League,POA,KAG,KAG,field,KAG,0,6,,138,142,8,4,120,85,SS Eskinazi,DN Subedi,Rashid Riaz
+1462663,1,2024-12-14,25,League,CHR,JAB,CHR,bat,CHR,32,0,,180,148,5,10,120,108,Kushal Malla,Sanjay Gurung,VK Jha
+1462664,1,2024-12-15,26,League,BIK,KAG,KAG,field,KAG,0,1,,117,120,10,9,119,109,D Kandel,BB Pradhan,DN Subedi
+1462665,1,2024-12-15,27,League,SUP,POA,POA,field,SUP,5,0,,153,148,7,10,120,118,SC Kuggeleijn,Bismillah Shinwari,Rashid Riaz
+1462666,1,2024-12-16,28,League,KAY,SUP,SUP,field,SUP,0,6,,101,105,10,4,120,92,DS Airee,HR Giri,Sanjay Gurung
+1462667,1,2024-12-18,29,Eliminator,KAY,CHR,CHR,field,KAY,21,0,,175,154,6,9,120,120,CAK Walton,Rashid Riaz,Sanjay Gurung
+1462668,1,2024-12-18,30,Qualifier 1,JAB,SUP,JAB,bat,SUP,0,8,,139,141,9,2,120,111,B Bhandari,Bismillah Shinwari,BB Pradhan
+1462669,1,2024-12-19,31,Qualifier 2,KAY,JAB,JAB,field,JAB,0,2,,118,119,9,8,120,114,JDS Neesham,DN Subedi,VK Jha
+1462670,1,2024-12-21,32,Final,SUP,JAB,SUP,bat,JAB,0,5,,184,185,9,5,120,116,BKEL Milantha,Bismillah Shinwari,Rashid Riaz
+1510977,2,2025-11-17,1,League,JAB,KAG,KAG,field,KAG,0,5,,130,131,6,5,120,108,Milind Kumar,BB Pradhan,RR Wimalasiri
+1510978,2,2025-11-18,2,League,KAY,CHR,CHR,field,CHR,0,4,,166,171,3,6,120,115,RS Bopara,RMPJ Rambukwella,VK Jha
+1510979,2,2025-11-18,3,League,BIK,POA,POA,field,BIK,53,0,,220,167,6,10,120,113,Lokesh Bam,BB Pradhan,RR Wimalasiri
+1510980,2,2025-11-19,4,League,SUP,KAG,KAG,field,SUP,29,0,,147,118,10,10,120,101,Harmeet Singh,RMPJ Rambukwella,VK Jha
+1510981,2,2025-11-20,5,League,CHR,LUL,LUL,field,LUL,0,6,,142,146,7,4,120,111,R Trumpelmann,DN Subedi,RR Wimalasiri
+1510982,2,2025-11-21,6,League,SUP,POA,POA,field,SUP,18,0,,193,175,7,8,120,120,J Brown,DN Subedi,RMPJ Rambukwella
+1510983,2,2025-11-22,7,League,LUL,KAY,KAY,field,KAY,0,9,,156,161,8,1,120,74,MRJ Watt,DN Subedi,RR Wimalasiri
+1510984,2,2025-11-22,8,League,KAG,BIK,BIK,field,BIK,0,5,,134,135,6,5,120,103,M de Lange,BB Pradhan,RMPJ Rambukwella
+1510985,2,2025-11-24,9,League,BIK,JAB,JAB,field,BIK,9,0,,135,126,7,9,120,120,S Lamichhane,DN Subedi,RR Wimalasiri
+1510986,2,2025-11-24,10,League,SUP,KAY,KAY,field,SUP,45,0,,139,94,9,10,120,116,DS Airee,BB Pradhan,VK Jha
+1510987,2,2025-11-25,11,League,KAG,LUL,LUL,field,KAG,22,0,,157,135,8,10,120,115,Karan KC,BB Pradhan,RR Wimalasiri
+1510988,2,2025-11-26,12,League,CHR,BIK,BIK,field,CHR,48,0,,174,126,5,10,120,101,R Kumar,RMPJ Rambukwella,RR Wimalasiri
+1510989,2,2025-11-27,13,League,LUL,SUP,SUP,field,SUP,0,7,,143,145,10,3,118,110,B Bhandari,DN Subedi,RR Wimalasiri
+1510990,2,2025-11-27,14,League,POA,JAB,POA,bat,POA,25,0,,155,130,6,9,120,120,SL Verma,BB Pradhan,RMPJ Rambukwella
+1510991,2,2025-11-28,15,League,KAG,CHR,CHR,field,KAG,53,0,,142,89,10,10,118,104,JA Simpson,BB Pradhan,RR Wimalasiri
+1510992,2,2025-11-28,16,League,KAY,BIK,KAY,bat,BIK,0,3,,160,163,3,7,120,119,Basir Ahamad,DN Subedi,RMPJ Rambukwella
+1510993,2,2025-11-29,17,League,POA,LUL,LUL,field,LUL,0,3,,150,151,5,7,120,118,RK Paudel,BB Pradhan,RMPJ Rambukwella
+1510994,2,2025-11-29,18,League,JAB,SUP,JAB,bat,SUP,0,6,,145,148,8,4,120,106,I Pandey,DN Subedi,RR Wimalasiri
+1510995,2,2025-11-30,19,League,KAY,KAG,KAY,bat,KAG,0,5,,149,155,7,5,120,108,MG Erasmus,RMPJ Rambukwella,RR Wimalasiri
+1510996,2,2025-12-02,20,League,CHR,JAB,CHR,bat,JAB,0,6,,176,180,4,4,120,105,AK Sah,BB Pradhan,RR Wimalasiri
+1510997,2,2025-12-02,21,League,POA,KAY,KAY,field,POA,34,0,,201,167,2,10,120,114,AM Rossington,LE Hannibal,RMPJ Rambukwella
+1510998,2,2025-12-03,22,League,BIK,LUL,LUL,field,LUL,0,5,,144,145,8,5,120,106,S Malla,RMPJ Rambukwella,RR Wimalasiri
+1510999,2,2025-12-04,23,League,KAG,POA,POA,field,KAG,13,0,,165,152,8,10,120,120,B Sharki,BB Pradhan,RMPJ Rambukwella
+1511000,2,2025-12-04,24,League,SUP,CHR,CHR,field,SUP,49,0,,169,120,4,10,120,103,CA Lynn,DN Subedi,LE Hannibal
+1511001,2,2025-12-05,25,League,JAB,LUL,JAB,bat,LUL,0,4,,132,136,6,6,120,115,RK Paudel,RMPJ Rambukwella,RR Wimalasiri
+1511002,2,2025-12-06,26,League,SUP,BIK,BIK,field,BIK,0,6,,147,150,6,4,120,71,F du Plessis,LE Hannibal,RR Wimalasiri
+1511003,2,2025-12-06,27,League,CHR,POA,CHR,bat,POA,0,8,,120,121,6,2,120,118,AM Rossington,BB Pradhan,DN Subedi
+1511004,2,2025-12-07,28,League,KAY,JAB,JAB,field,KAY,3,0,,129,126,9,7,120,120,WG Bosisto,DN Subedi,VK Jha
+1511005,2,2025-12-09,29,Qualifier 1,SUP,BIK,BIK,field,SUP,77,0,,155,78,7,10,120,85,B Bhandari,LE Hannibal,RR Wimalasiri
+1511006,2,2025-12-10,30,Eliminator,KAG,LUL,KAG,bat,LUL,0,4,,111,112,10,6,115,106,S Malla,BB Pradhan,LE Hannibal
+1511007,2,2025-12-11,31,Qualifier 2,LUL,BIK,BIK,field,LUL,40,0,,134,94,8,10,120,107,TR Bhandari,LE Hannibal,RR Wimalasiri
+1511008,2,2025-12-13,32,Final,SUP,LUL,SUP,bat,LUL,0,6,,85,86,10,4,115,54,R Trumpelmann,LE Hannibal,RR Wimalasiri
