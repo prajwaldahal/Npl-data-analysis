@@ -1,0 +1,8 @@
+# Pipeline (data-engineering/scrape_player_styles.py, then build_npl_csvs.py)
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Practice workbook (npl_practice.ipynb)
+pandas>=2.2
+numpy>=1.26
+jupyterlab>=4.0

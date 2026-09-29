@@ -1,0 +1,5 @@
+/.claude
+/cache
+/venv
+__pycache__/
+/data-engineering/
